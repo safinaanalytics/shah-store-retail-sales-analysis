@@ -109,8 +109,8 @@ Future sales records should include:
 
 ## Dashboard Preview
 
-### 1. Business Overview
-![Business Overview](images/Shah-Store-Dashboard.png)
+### Business Overview
+![Business Overview](Images/Shah-Store-Dashboard.png)
 
 ## Repository Structure
 
